@@ -46,6 +46,8 @@ Cold Chain Management
 
 Multi-Warehouse Distribution Networks
 
+
+
 Use cases include:
 
 Managing demand spikes or seasonal trends
